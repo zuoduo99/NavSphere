@@ -10,6 +10,6 @@ GITHUB_ID = "Ov23liOgAZosY56Hgr9U"
 GITHUB_OWNER = "zuoduo99"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://tdoudou.dpdns.org//api/auth"
+NEXTAUTH_URL = "https://tdoudou.dpdns.org/api/auth"
 NEXT_PUBLIC_API_URL="https://tdoudou.dpdns.org"
 
