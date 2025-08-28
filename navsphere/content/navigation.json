@@ -7,10 +7,10 @@
       "items": [
         {
           "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-          "icon": "/assets/images/logos/analytics.ico",
+          "title": "4K蓝光电影资源",
+          "href": "https://www.yinfans.net/topic/4k",
+          "description": "精选优秀电影4K格式蓝光原盘ISO或MKV的免费下载",
+          "icon": "https://www.yinfans.net/wp-content/themes/Loos2/images/favicon.ico",
           "enabled": true
         },
         {
