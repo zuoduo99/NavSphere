@@ -28,6 +28,14 @@
           "description": "",
           "icon": "https://www.netflixgc.tv/upload/site/20241029-1/a3066e37a45ef286668060443b4de885.png",
           "enabled": true
+        },
+        {
+          "id": "1763783538346",
+          "title": "爱盼迷",
+          "href": "https://www.aipan.me/",
+          "description": "",
+          "icon": "https://www.aipan.me/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
