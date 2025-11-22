@@ -15,10 +15,10 @@
         },
         {
           "id": "1_3",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.ico",
+          "title": " 厂长资源",
+          "href": "https://www.czzymovie.com",
+          "description": "",
+          "icon": "https://cf.hbcn.fun/wp-content/uploads/2021/10/5c7a67356cec28.ico",
           "enabled": true
         },
         {
