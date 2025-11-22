@@ -54,6 +54,14 @@
           "description": "",
           "icon": "https://codernav.com/favicon.png",
           "enabled": true
+        },
+        {
+          "id": "1763783787341",
+          "title": "懒人Excel",
+          "href": "https://www.lanrenexcel.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [
