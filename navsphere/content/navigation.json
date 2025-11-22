@@ -23,10 +23,10 @@
         },
         {
           "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
+          "title": "奈飞工厂",
+          "href": "https://www.netflixgc.tv/",
           "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
+          "icon": "https://www.netflixgc.tv/upload/site/20241029-1/a3066e37a45ef286668060443b4de885.png",
           "enabled": true
         },
         {
