@@ -46,7 +46,16 @@
       "id": "9",
       "title": "常用网站",
       "icon": "LayoutList",
-      "items": [],
+      "items": [
+        {
+          "id": "1763783689161",
+          "title": "开发者导航",
+          "href": "https://codernav.com/",
+          "description": "",
+          "icon": "https://codernav.com/favicon.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
