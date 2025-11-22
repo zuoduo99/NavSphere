@@ -28,14 +28,6 @@
           "description": "",
           "icon": "https://www.netflixgc.tv/upload/site/20241029-1/a3066e37a45ef286668060443b4de885.png",
           "enabled": true
-        },
-        {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
